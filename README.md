@@ -8,4 +8,5 @@
     npm run dev
 
 
+<img width="1920" height="878" alt="sample" src="https://github.com/user-attachments/assets/c6f6b5ff-e715-456d-9e89-c46fc5c0c8da" />
 
